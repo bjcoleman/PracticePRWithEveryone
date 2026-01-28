@@ -18,3 +18,4 @@
 * Dermot Badman
 * Tori Champagne
 * Matt Kraus
+* Vicente Rivera
