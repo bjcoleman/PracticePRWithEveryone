@@ -17,3 +17,4 @@
 * Marena Abboud
 * Dermot Badman
 * Tori Champagne
+* Matt Kraus
