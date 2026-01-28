@@ -16,3 +16,4 @@
 * Jack Drabic 
 * Marena Abboud
 * Dermot Badman
+* Tori Champagne
